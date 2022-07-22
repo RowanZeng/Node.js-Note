@@ -1,0 +1,6 @@
+/node_modules
+.vscode
+package-lock.json
+
+/data/header01.txt
+/public/fontawesome
